@@ -1,0 +1,4 @@
+<!DOCTYPE test PUBLIC "MYPUBLICID0" "mydtd.dtd" [
+ <!ENTITY ent1 PUBLIC "MYPUBLICID1" "myentity1.ent">
+]>
+<test>&auml;</test>
